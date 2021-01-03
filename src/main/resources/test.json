@@ -1,0 +1,9 @@
+{
+  "data": {
+    "employee": {
+      "empid": 2012,
+      "empname": "Virat",
+      "location": "Hyderabad"
+    }
+  }
+}

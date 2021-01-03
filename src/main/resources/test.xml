@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <employee>
+        <id>30123</id>
+        <name>Ben</name>
+        <location>Toronto</location>
+    </employee>
+</data>
